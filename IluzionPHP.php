@@ -5,5 +5,10 @@
 		{
 			echo $val;
 		}
+		
+		public function add_new($val){
+			echo $val+1;
+		}
+		
 	}
 ?>
